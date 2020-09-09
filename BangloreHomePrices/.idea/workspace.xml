@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5cd5ef9-328e-4271-b833-c8d1faf4cfd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Read Me.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Read Me.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/.ipynb_checkpoints/banglore_home_prices_final-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Model/.ipynb_checkpoints/banglore_home_prices_final-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model/banglore_home_prices_final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Model/banglore_home_prices_final.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server/util.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +31,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
